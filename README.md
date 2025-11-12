@@ -2,6 +2,12 @@
 
 A blockchain-based document verification system built with **Next.js** and **Solana**. This application allows you to generate cryptographic hashes of documents and store them immutably on the Solana blockchain for future verification.
 
+## 🎥 Watch the Build Session
+
+Watch the full coding session where this project was built from scratch:
+
+**[▶️ Watch on YouTube: Building a Document Verifier on Solana Blockchain](https://youtu.be/QVc3J0_TwWw)**
+
 ![Document Hash Verifier](./screenshots/01-home.png)
 
 ## 🌟 Features
